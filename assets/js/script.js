@@ -1,9 +1,3 @@
-/*
-Author       : Dreamguys
-Template Name: INH Doctor - Bootstrap Template
-Version      : 1.3
-*/
-
 (function($) {
     "use strict";
 	
